@@ -3,27 +3,27 @@
     background-image: linear-gradient(to right, rgba(112, 176, 189, 1), rgba(210, 229, 252, 1)) !important;
     }
     .nav-list .nav-list-item .nav-list-link {
-      color: #3c3c47;
+      color: #3c3c47!important;
     }
     
     }
     
     .site-footer {
-    display:none;
+    display:none!important;
     }
     
     .nav-list .nav-list-item .nav-list-expander {
-         color: #3c3c47;
+         color: #3c3c47!important;
     }
     
    .nav-list .nav-list-item .nav-list-link.active {
-    background-color: #1d8296;
-    color: #fff;
-    border-radius: 5px;
+    background-color: #1d8296!important;
+    color: #fff!important;
+    border-radius: 5px!important;
 }
 
 .nav-list .nav-list-item .nav-list-link:hover {
-  background-color: #4ab1cb;
-    color: #fff;
-    border-radius: 5px;
+  background-color: #4ab1cb!important;
+    color: #fff!important;
+    border-radius: 5px!important;
 }
